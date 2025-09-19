@@ -1,0 +1,3 @@
+[submodule "cafeteria_frontend"]
+	path = cafeteria_frontend
+	url = https://github.com/jsilmaro/CafeteriaAuth.git
