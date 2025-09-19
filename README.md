@@ -6,4 +6,4 @@ Main Repo for all components of Project Cafeteria
 - https://github.com/tomandjerry17/cafeteria-backend.git
 
 ## Frontend
-- 
+- https://github.com/jsilmaro/CafeteriaAuth.git 
